@@ -1,0 +1,534 @@
+ID,Department,Office,Rating
+U2F26,Finance,New Delhi,3.4
+U2M61,Marketing,New Delhi,3.9
+U1S15,Sales,New Delhi,2.8
+U1H87,HR,Mumbai,2.1
+U1S51,Sales,New Delhi,4.6
+U1H78,HR,New Delhi,3.8
+U3M65,Marketing,New Delhi,5
+U3M44,Marketing,Bangalore,2.1
+U3S75,Sales,Bangalore,4.3
+U2H84,HR,Bangalore,4.3
+U2S84,Sales,Mumbai,3.6
+U1S50,Sales,Mumbai,4.7
+U2F25,Finance,New Delhi,4.4
+U1S75,Sales,Bangalore,3
+U1H39,HR,New Delhi,4.2
+U2F53,Finance,Bangalore,2.7
+U1F53,Finance,Bangalore,3.7
+U2S99,Sales,New Delhi,3.6
+U3F41,Finance,New Delhi,4.9
+U1F28,Finance,Bangalore,3.2
+U2F43,Finance,Mumbai,3.8
+U2H45,HR,New Delhi,3.7
+U2H48,HR,Bangalore,2.8
+U2S27,Sales,New Delhi,
+U3S93,Sales,Bangalore,3.6
+U1F15,Finance,Bangalore,3.3
+U1M67,Marketing,Bangalore,2.7
+U3H94,HR,New Delhi,2.5
+U3M49,Marketing,New Delhi,2.1
+U2S69,Sales,Mumbai,4.7
+U3M39,Marketing,Mumbai,
+U1F14,Finance,Bangalore,2.9
+U3F29,Finance,Mumbai,3.7
+U2S18,Sales,Bangalore,3.2
+U1F59,Finance,Mumbai,4.1
+U3F66,Finance,Bangalore,4.7
+U3H88,HR,Bangalore,2.7
+U1M15,Marketing,Bangalore,4.9
+U3F52,Finance,Bangalore,2.4
+U1S77,Sales,Bangalore,3.1
+U3S74,Sales,Mumbai,4.8
+U1M45,Marketing,Bangalore,4.7
+U1S42,Sales,Mumbai,2.5
+U2S40,Sales,Bangalore,4.6
+U3F39,Finance,Bangalore,4.1
+U1M82,Marketing,New Delhi,3.3
+U2H65,HR,New Delhi,3.6
+U3H92,HR,New Delhi,4.4
+U1H42,HR,Mumbai,4.8
+U1S23,Sales,New Delhi,3.3
+U3S24,Sales,New Delhi,4.4
+U1H73,HR,Bangalore,4.2
+U1M58,Marketing,Bangalore,4
+U2F89,Finance,New Delhi,4.4
+U3F77,Finance,Bangalore,2.6
+U1H93,HR,Mumbai,3.1
+U1M79,Marketing,Bangalore,3.2
+U3H69,HR,Bangalore,3.7
+U2S80,Sales,Bangalore,3
+U2S89,Sales,Bangalore,4.4
+U2F14,Finance,Bangalore,2.1
+U2F36,Finance,Bangalore,3.8
+U1H97,HR,Bangalore,3.7
+U3H31,HR,Bangalore,3.3
+U3H57,HR,Bangalore,4.4
+U1M70,Marketing,Bangalore,2.6
+U3H77,HR,Bangalore,3.1
+U2H22,HR,Bangalore,4.8
+U3M80,Marketing,Mumbai,3.5
+U2H88,HR,Mumbai,3.7
+U3M67,Marketing,Mumbai,3.5
+U3M79,Marketing,New Delhi,2.8
+U3F87,Finance,New Delhi,3.4
+U3F43,Finance,Mumbai,2.9
+U1H81,HR,Bangalore,4.6
+U2M41,Marketing,Bangalore,4.4
+U2H71,HR,New Delhi,4.9
+U1S60,Sales,Bangalore,5
+U2H60,HR,Bangalore,5
+U3H76,HR,Mumbai,3.1
+U1H56,HR,Bangalore,2.6
+U3H71,HR,Bangalore,3.1
+U3M99,Marketing,Mumbai,3.8
+U1S38,Sales,Mumbai,4.7
+U1M89,Marketing,Mumbai,2.1
+U2H30,HR,Bangalore,4.2
+U3S27,Sales,Bangalore,2.9
+U1F99,Finance,Mumbai,4.4
+U1F56,Finance,Mumbai,4.8
+U2H91,HR,Bangalore,3
+U2F58,Finance,Mumbai,3.3
+U2H15,HR,Mumbai,4.8
+U3F50,Finance,Mumbai,
+U3S43,Sales,New Delhi,2.4
+U3M23,Marketing,Mumbai,2.5
+U1H12,HR,Bangalore,4.6
+U1M52,Marketing,New Delhi,2.2
+U3M92,Marketing,New Delhi,2.2
+U1H49,HR,Mumbai,2.2
+U3M84,Marketing,Bangalore,3.2
+U1F88,Finance,New Delhi,4.5
+U1H61,HR,New Delhi,2.5
+U1M61,Marketing,Bangalore,4.1
+U1F97,Finance,Bangalore,2.2
+U1H57,HR,New Delhi,4
+U2F17,Finance,Bangalore,2.3
+U3F37,Finance,Bangalore,4
+U2S92,Sales,New Delhi,4.6
+U1M25,Marketing,Mumbai,2.7
+U2F63,Finance,New Delhi,3.9
+U3H61,HR,Mumbai,3.2
+U1M53,Marketing,Bangalore,3.2
+U3F25,Finance,Bangalore,4.6
+U1H17,HR,Mumbai,5
+U1M18,Marketing,Mumbai,4.1
+U2S38,Sales,Bangalore,3
+U2H49,HR,New Delhi,4
+U3H96,HR,New Delhi,4.2
+U3M72,Marketing,Bangalore,4.9
+U2F57,Finance,Bangalore,2.7
+U1M95,Marketing,Mumbai,2.6
+U1F45,Finance,New Delhi,4.2
+U3M12,Marketing,New Delhi,4.9
+U1M86,Marketing,Bangalore,2.2
+U2S23,Sales,Bangalore,2.9
+U3F63,Finance,New Delhi,4.4
+U2H68,HR,New Delhi,4.9
+U2S10,Sales,Mumbai,3.3
+U1H43,HR,Bangalore,4.4
+U1M97,Marketing,New Delhi,3.9
+U3M93,Marketing,Bangalore,3.5
+U3H29,HR,Bangalore,3.6
+U2F66,Finance,Bangalore,2.6
+U3M24,Marketing,Bangalore,4
+U2F94,Finance,New Delhi,2.2
+U1H59,HR,Mumbai,4.4
+U2M27,Marketing,Mumbai,4.7
+U3S19,Sales,Bangalore,3.2
+U3F26,Finance,Mumbai,4.2
+U1S40,Sales,Bangalore,3.8
+U3S23,Sales,New Delhi,3.5
+U3S69,Sales,Mumbai,2.7
+U1S69,Sales,Bangalore,2.9
+U1S93,Sales,Mumbai,2.6
+U3S54,Sales,New Delhi,3.8
+U1H24,HR,Mumbai,4.8
+U2H93,HR,Bangalore,3.9
+U1M11,Marketing,New Delhi,2.3
+U2F20,Finance,Mumbai,2.9
+U1F19,Finance,Mumbai,4.2
+U1F98,Finance,Bangalore,2.2
+U2M68,Marketing,New Delhi,3.6
+U2F62,Finance,New Delhi,2.8
+U2S76,Sales,New Delhi,2.1
+U1H53,HR,Mumbai,2.1
+U2H97,HR,New Delhi,4.3
+U1M27,Marketing,Bangalore,3.3
+U3S41,Sales,Mumbai,2.4
+U2F79,Finance,Mumbai,3.8
+U3S97,Sales,New Delhi,4.3
+U3S25,Sales,Bangalore,2.5
+U1F16,Finance,Mumbai,3.5
+U1S96,Sales,Bangalore,2.2
+U2F19,Finance,New Delhi,4.2
+U2H80,HR,New Delhi,4.1
+U2F55,Finance,Bangalore,4
+U2M84,Marketing,Mumbai,3.5
+U1F34,Finance,New Delhi,3.1
+U2S32,Sales,Bangalore,2.6
+U3S52,Sales,Mumbai,4.9
+U2H72,HR,Mumbai,3.3
+U1H86,HR,New Delhi,2.9
+U2H75,HR,New Delhi,3.6
+U3M85,Marketing,New Delhi,4
+U2S53,Sales,Mumbai,4.3
+U2F60,Finance,Bangalore,4.6
+U1H64,HR,Mumbai,3.6
+U1S82,Sales,Mumbai,3.5
+U2F48,Finance,New Delhi,3.3
+U3F90,Finance,Mumbai,3.1
+U3S79,Sales,Mumbai,
+U3M13,Marketing,Mumbai,4.7
+U1M39,Marketing,Bangalore,3.1
+U2F95,Finance,Bangalore,3.4
+U3H10,HR,Bangalore,3.8
+U2M67,Marketing,New Delhi,2.9
+U1M43,Marketing,New Delhi,3.2
+U2M72,Marketing,Bangalore,2.8
+U3F10,Finance,Bangalore,2.5
+U3H16,HR,New Delhi,4.4
+U1M34,Marketing,Mumbai,3.8
+U1M88,Marketing,Mumbai,4.3
+U1F27,Finance,New Delhi,3.3
+U1F66,Finance,Mumbai,4.6
+U1S61,Sales,Bangalore,3.1
+U3M51,Marketing,Bangalore,3.1
+U1M68,Marketing,New Delhi,2.4
+U2S85,Sales,Bangalore,3
+U1S76,Sales,Bangalore,3.2
+U3F17,Finance,Bangalore,3.9
+U1S83,Sales,New Delhi,2.4
+U3H40,HR,New Delhi,3.9
+U3H33,HR,New Delhi,2.4
+U2S44,Sales,Bangalore,4.9
+U2S70,Sales,Bangalore,4.8
+U3H39,HR,Bangalore,3.4
+U3M98,Marketing,New Delhi,4.9
+U2H26,HR,Mumbai,4.6
+U1M99,Marketing,Mumbai,2.1
+U2S63,Sales,Bangalore,4.2
+U2H31,HR,Mumbai,3.2
+U1M24,Marketing,Bangalore,4.5
+U1M87,Marketing,New Delhi,2.9
+U1F55,Finance,New Delhi,2.7
+U3H24,HR,Mumbai,3.8
+U1S79,Sales,New Delhi,4.8
+U1F41,Finance,New Delhi,3.7
+U2F32,Finance,Mumbai,4.2
+U2M40,Marketing,New Delhi,4.8
+U3F48,Finance,Bangalore,2.1
+U3M88,Marketing,New Delhi,3.5
+U2M99,Marketing,Bangalore,3.4
+U3F51,Finance,Bangalore,5
+U1H46,HR,Mumbai,2.3
+U3H14,HR,Bangalore,3.5
+U1H16,HR,New Delhi,2.9
+U3M10,Marketing,New Delhi,3.3
+U1H55,HR,Bangalore,3.8
+U1F47,Finance,Mumbai,2.5
+U1M40,Marketing,Mumbai,3.3
+U3M57,Marketing,Mumbai,4.8
+U2M18,Marketing,Bangalore,2.3
+U1F17,Finance,New Delhi,3.7
+U2F64,Finance,Bangalore,4.3
+U2H96,HR,New Delhi,4
+U1F71,Finance,Mumbai,3.6
+U2H89,HR,Bangalore,4.3
+U2S74,Sales,Mumbai,3.4
+U2H34,HR,Bangalore,2.8
+U2S39,Sales,New Delhi,2.4
+U3H20,HR,Mumbai,4.2
+U2S13,Sales,Mumbai,2.9
+U3M96,Marketing,Mumbai,3.4
+U2F52,Finance,New Delhi,2.1
+U2H23,HR,New Delhi,4.2
+U3H70,HR,Bangalore,3.7
+U1F83,Finance,Bangalore,3.8
+U2F91,Finance,Mumbai,2.9
+U2F96,Finance,New Delhi,4.5
+U1H36,HR,Mumbai,3
+U2F99,Finance,Bangalore,4.8
+U1H27,HR,New Delhi,3.4
+U1H98,HR,Mumbai,2.5
+U2S36,Sales,Mumbai,2.4
+U2M89,Marketing,Mumbai,3.2
+U2S55,Sales,New Delhi,
+U2H14,HR,New Delhi,2.3
+U3M53,Marketing,Bangalore,2.8
+U1H33,HR,Bangalore,
+U3M73,Marketing,Bangalore,4.9
+U2S49,Sales,New Delhi,4
+U2S58,Sales,Mumbai,3.1
+U1H29,HR,Mumbai,2.6
+U2F31,Finance,Bangalore,3.4
+U3S65,Sales,Bangalore,3.5
+U3H52,HR,New Delhi,4.7
+U2F51,Finance,New Delhi,2.5
+U2M20,Marketing,Mumbai,4.4
+U2M62,Marketing,Bangalore,2.7
+U3F13,Finance,Mumbai,2.2
+U1S34,Sales,Mumbai,3.4
+U1M76,Marketing,New Delhi,2.2
+U2M95,Marketing,Mumbai,2.1
+U3F89,Finance,Mumbai,3.9
+U1F65,Finance,New Delhi,4.4
+U1M50,Marketing,Bangalore,3.6
+U2H42,HR,Mumbai,2.7
+U1M63,Marketing,Bangalore,4.4
+U1F43,Finance,New Delhi,4
+U1H91,HR,New Delhi,2.8
+U2H92,HR,Bangalore,2.8
+U2M55,Marketing,New Delhi,4.4
+U1M66,Marketing,Bangalore,4.1
+U2M50,Marketing,Bangalore,3.4
+U1H58,HR,New Delhi,
+U2S95,Sales,New Delhi,3.2
+U1F18,Finance,Bangalore,2.8
+U3S80,Sales,Mumbai,4.2
+U1S29,Sales,Mumbai,4.6
+U1F44,Finance,New Delhi,2.6
+U3M69,Marketing,New Delhi,2.5
+U1H90,HR,New Delhi,4.9
+U2S34,Sales,Bangalore,4
+U3M91,Marketing,New Delhi,4.7
+U1S86,Sales,Bangalore,4.9
+U2M81,Marketing,Bangalore,2.4
+U1S74,Sales,Bangalore,3.8
+U2S47,Sales,New Delhi,2.4
+U1F85,Finance,Bangalore,3.7
+U2M44,Marketing,Bangalore,2.5
+U2F37,Finance,Mumbai,3
+U3F24,Finance,Mumbai,2.2
+U3H60,HR,New Delhi,3.4
+U2H11,HR,Mumbai,3.9
+U3M26,Marketing,New Delhi,4.1
+U1S72,Sales,Mumbai,3.5
+U1S99,Sales,Mumbai,2.6
+U2M34,Marketing,Bangalore,4.4
+U3S71,Sales,New Delhi,4
+U3F16,Finance,New Delhi,4.1
+U2S91,Sales,New Delhi,3.9
+U3F18,Finance,Bangalore,2.1
+U3F70,Finance,Mumbai,4.2
+U3H83,HR,Bangalore,3
+U1M96,Marketing,Mumbai,2.2
+U2F44,Finance,Mumbai,4.1
+U3M78,Marketing,Bangalore,5
+U3S85,Sales,Mumbai,2.2
+U2S64,Sales,Mumbai,3.6
+U1M37,Marketing,New Delhi,
+U1M51,Marketing,Bangalore,2.8
+U3F12,Finance,New Delhi,3.1
+U2S57,Sales,Bangalore,4.9
+U3M32,Marketing,Bangalore,4.6
+U3H34,HR,Bangalore,2.8
+U2H38,HR,Bangalore,5
+U2S83,Sales,New Delhi,3.7
+U2F76,Finance,Bangalore,3.6
+U3H93,HR,Mumbai,3.2
+U1H18,HR,Mumbai,2.2
+U3F64,Finance,Bangalore,4.4
+U2F23,Finance,Bangalore,2.8
+U3H25,HR,Mumbai,4.7
+U3H64,HR,Bangalore,2.9
+U1M29,Marketing,Mumbai,2.6
+U3F35,Finance,Bangalore,4.4
+U2M38,Marketing,Mumbai,4.6
+U2S79,Sales,New Delhi,4.9
+U3F22,Finance,Bangalore,3.9
+U3F34,Finance,Mumbai,3.8
+U2M42,Marketing,Mumbai,2.6
+U3M68,Marketing,New Delhi,2.6
+U2H66,HR,New Delhi,4.3
+U2S43,Sales,New Delhi,2.7
+U1H14,HR,New Delhi,2.5
+U1H60,HR,New Delhi,3.5
+U1S10,Sales,Mumbai,2.1
+U3H54,HR,Bangalore,4.2
+U3H46,HR,New Delhi,4.8
+U2F59,Finance,New Delhi,4.3
+U2F42,Finance,Mumbai,4.3
+U2M35,Marketing,Mumbai,4.7
+U3M25,Marketing,New Delhi,2.5
+U1H88,HR,Mumbai,3.8
+U3F94,Finance,Mumbai,3.4
+U2S61,Sales,Mumbai,4.7
+U3F84,Finance,Mumbai,2.5
+U2S11,Sales,New Delhi,3.9
+U1F32,Finance,Bangalore,2.8
+U1F70,Finance,Mumbai,4
+U1M90,Marketing,New Delhi,2.3
+U2M33,Marketing,Bangalore,3.6
+U3S55,Sales,Mumbai,3.4
+U1M83,Marketing,Bangalore,3.5
+U2F69,Finance,New Delhi,2.9
+U3M20,Marketing,Bangalore,3.7
+U1M91,Marketing,Bangalore,2.3
+U2M78,Marketing,Mumbai,3.3
+U2M23,Marketing,Bangalore,4.2
+U1S19,Sales,Mumbai,3.8
+U1F42,Finance,Mumbai,2.9
+U2M65,Marketing,Mumbai,4
+U3S64,Sales,Mumbai,2.1
+U1S91,Sales,New Delhi,4.6
+U3F69,Finance,New Delhi,3.7
+U2F28,Finance,Bangalore,3
+U1S80,Sales,Mumbai,2.7
+U1S47,Sales,Mumbai,3.9
+U3S62,Sales,Bangalore,4.7
+U2F92,Finance,Bangalore,3.2
+U3M18,Marketing,Mumbai,4.8
+U3M81,Marketing,Bangalore,3.4
+U3S48,Sales,New Delhi,2.7
+U3H66,HR,New Delhi,3.3
+U3H23,HR,Mumbai,3.5
+U1M80,Marketing,New Delhi,3.1
+U2S16,Sales,Mumbai,4.8
+U1F20,Finance,Mumbai,2.4
+U3F62,Finance,New Delhi,2.2
+U1H30,HR,New Delhi,4.9
+U1M41,Marketing,Mumbai,4.6
+U3S30,Sales,New Delhi,4.7
+U2M98,Marketing,Bangalore,4.2
+U3S58,Sales,Mumbai,2.4
+U3S56,Sales,Mumbai,4.1
+U1H68,HR,New Delhi,4.4
+U1F54,Finance,Bangalore,4.7
+U2S51,Sales,New Delhi,3.2
+U3H74,HR,Bangalore,2.2
+U1H38,HR,New Delhi,4.9
+U1M17,Marketing,Bangalore,3.2
+U3M31,Marketing,New Delhi,3.3
+U3M19,Marketing,New Delhi,4.8
+U1H40,HR,Bangalore,4.4
+U2M82,Marketing,Bangalore,3.9
+U3S61,Sales,Bangalore,4
+U3S53,Sales,New Delhi,2.3
+U1F50,Finance,New Delhi,4
+U1S21,Sales,Bangalore,3.5
+U1H15,HR,Mumbai,2.2
+U3M70,Marketing,New Delhi,4.5
+U1F48,Finance,Mumbai,3
+U2F74,Finance,Mumbai,4.2
+U2F45,Finance,New Delhi,2.6
+U2F56,Finance,New Delhi,2.6
+U1S32,Sales,Bangalore,4.5
+U2H85,HR,New Delhi,3.8
+U2M31,Marketing,Mumbai,3.5
+U1F69,Finance,Bangalore,5
+U3F49,Finance,New Delhi,2.4
+U1M78,Marketing,New Delhi,3.2
+U2F13,Finance,Mumbai,3.4
+U2M39,Marketing,New Delhi,4.7
+U1S92,Sales,Bangalore,3.3
+U3S45,Sales,New Delhi,3.9
+U2M28,Marketing,Bangalore,4.1
+U1F94,Finance,Mumbai,2.9
+U3H38,HR,New Delhi,3.2
+U2M30,Marketing,New Delhi,3.9
+U1F87,Finance,New Delhi,4
+U2F38,Finance,Mumbai,2.3
+U3F19,Finance,New Delhi,4.5
+U3M48,Marketing,Bangalore,3.7
+U3S35,Sales,Mumbai,2.1
+U1S73,Sales,Mumbai,3.4
+U1M72,Marketing,Mumbai,2.6
+U3M64,Marketing,Bangalore,4.6
+U3M37,Marketing,Mumbai,4.8
+U2H40,HR,Mumbai,4.6
+U1M14,Marketing,Bangalore,2.3
+U3S31,Sales,New Delhi,3.6
+U2M93,Marketing,Mumbai,4
+U2S37,Sales,New Delhi,3.1
+U2F54,Finance,Bangalore,2.2
+U3H67,HR,Bangalore,2.5
+U2S17,Sales,Bangalore,4.4
+U3F83,Finance,Bangalore,2.3
+U3F78,Finance,Mumbai,4
+U3H13,HR,New Delhi,4.3
+U2M91,Marketing,Mumbai,2.4
+U1H76,HR,New Delhi,3.6
+U2H77,HR,Bangalore,4.4
+U3H97,HR,Bangalore,4.6
+U2H70,HR,Mumbai,3.4
+U2H82,HR,New Delhi,2.9
+U2H54,HR,New Delhi,3
+U3H89,HR,Bangalore,4.3
+U2M37,Marketing,New Delhi,2.6
+U3S14,Sales,New Delhi,2.3
+U2M96,Marketing,New Delhi,4.9
+U2H56,HR,Bangalore,4.9
+U3S60,Sales,Bangalore,4.8
+U2M16,Marketing,Bangalore,4.7
+U1F95,Finance,Bangalore,4.4
+U2M58,Marketing,New Delhi,4
+U2H69,HR,New Delhi,3
+U1F51,Finance,Bangalore,2.5
+U3F15,Finance,Mumbai,4
+U2S45,Sales,Bangalore,4.8
+U3S34,Sales,Mumbai,4.8
+U2F35,Finance,New Delhi,2.7
+U3H84,HR,Mumbai,2.1
+U2S71,Sales,Bangalore,3.7
+U3S77,Sales,New Delhi,3.1
+U2F80,Finance,Mumbai,3
+U2H95,HR,Mumbai,3.5
+U2M21,Marketing,Bangalore,4.6
+U3F81,Finance,Mumbai,4.3
+U1S36,Sales,Bangalore,4.3
+U2H86,HR,Mumbai,3.5
+U2S59,Sales,Bangalore,2.5
+U2F61,Finance,Mumbai,3.2
+U3M75,Marketing,New Delhi,2.7
+U2S82,Sales,Bangalore,2.4
+U1S12,Sales,Bangalore,2.1
+U3H37,HR,Bangalore,4.5
+U1M65,Marketing,New Delhi,4.3
+U3S11,Sales,New Delhi,3.6
+U1M64,Marketing,Mumbai,2.3
+U3F82,Finance,New Delhi,4.8
+U3M97,Marketing,Bangalore,2.2
+U3M16,Marketing,New Delhi,2.1
+U2S42,Sales,New Delhi,3.1
+U1F21,Finance,Bangalore,4.3
+U2S52,Sales,Mumbai,
+U1F75,Finance,Bangalore,4.1
+U1M13,Marketing,Bangalore,2.7
+U2F65,Finance,Bangalore,4.2
+U2H57,HR,New Delhi,3.9
+U2H41,HR,Bangalore,4
+U2H94,HR,Mumbai,3.7
+U1S94,Sales,Bangalore,2.9
+U3F65,Finance,Mumbai,3.2
+U2M15,Marketing,New Delhi,2.6
+U1S55,Sales,Mumbai,3.9
+U3M61,Marketing,Mumbai,3.4
+U3H15,HR,Bangalore,3.9
+U1H25,HR,New Delhi,3
+U3H28,HR,Bangalore,4.8
+U3H73,HR,New Delhi,4
+U3S40,Sales,Mumbai,3.4
+U1H70,HR,New Delhi,3.4
+U1M47,Marketing,Mumbai,4.8
+U3H87,HR,Bangalore,3.7
+U3H91,HR,New Delhi,3.1
+U3M36,Marketing,New Delhi,2.5
+U3S36,Sales,New Delhi,4.5
+U3S57,Sales,New Delhi,4.2
+U2F27,Finance,New Delhi,3.2
+U1M57,Marketing,New Delhi,4.9
+U1M10,Marketing,Mumbai,3.7
+U1F93,Finance,New Delhi,2.1
+U2S41,Sales,Mumbai,3.4
+U3F46,Finance,New Delhi,3.6
+U1M31,Marketing,New Delhi,4.6
+U1S25,Sales,New Delhi,3.4
+U2S35,Sales,Mumbai,4.9
+U1S22,Sales,Bangalore,3.4
+U3S44,Sales,New Delhi,4.8
+U2M11,Marketing,Bangalore,2.5
+U3F53,Finance,Bangalore,3.2
+U3S46,Sales,Bangalore,2.9
+U3S28,Sales,New Delhi,2.9
